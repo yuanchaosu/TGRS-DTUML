@@ -1,3 +1,7 @@
+Dilated Transformation-Guided Unsupervised Multimodal Learning for Hyperspectral and Multispectral Image Fusion
+
+Yuanchao Su, Sheng Li, Yicong Zhou, Lianru Gao, Mengying Jiang, Xu Sun, Haiwei Li
+
 ## Training
 
 1. Start visdom first in one terminal
@@ -33,4 +37,5 @@ sh bash.sh
 --scale_factor=8
 --print_freq=20
 --batchsize=1
+
 --which_epoch=9000
